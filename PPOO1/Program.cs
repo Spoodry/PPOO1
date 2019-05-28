@@ -96,7 +96,7 @@ namespace PPOO1
                                             CD.SetNombre(Console.ReadLine());
                                             Console.Write("Precio: ");
                                             CD.SetPrecio(double.Parse(Console.ReadLine()));
-                                            Console.Write("Número de páginas: ");
+                                            Console.Write("Duración: ");
                                             CD.SetDuracion(int.Parse(Console.ReadLine()));
                                             Console.Write("Distribuidor: ");
                                             CD.SetDistribuidor(Console.ReadLine());
